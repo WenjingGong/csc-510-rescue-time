@@ -1,3 +1,5 @@
+URL: https://github.com/WenjingGong/csc-510-rescue-time/blob/master/report.md
+
 Tracking Coding Activities
 =============================
 This is a summary reported for nowadays coding activities of the user. <br>
