@@ -19,3 +19,9 @@ Activities on 10/24/2014
 ----------------------------
 ![](https://github.com/WenjingGong/csc-510-rescue-time/raw/master/10-24.png)
 On Friday, I uploaded all the updated work to github. Because my teammates contributed some part of the project, we have to talk about the corrption and deal with them together. These work was mainly completed on my partner's device, which is the reason why my tracking data is not as full as expected. <br>
+<br>
+Three Aspects of Improved
+---------------------------
+1. One of the main shortage of this tool is the multi-platform performance. It is only a software running on computer, instead of mobile devices, such as mobile phones, tablets and so on. An user might focus on distracting items on mobile devices which is beyond the tracking range. Thus, the activities summary is not as accurate as expected.
+2. On linux operating system, the tool 'rescuetime' needs to be launched in terminal, instead of auto run after boot up. This is not a good user experience because not each user will remember to launch the software after they restarted the computer. The automation of running is necessary to improve the data collection accuracy and full-coverage.
+3. 
