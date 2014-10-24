@@ -15,3 +15,7 @@ Activities on 10/22/2014
 ----------------------------
 ![](https://github.com/WenjingGong/csc-510-rescue-time/raw/master/10-22.png)
 It is clear that <br>
+Activities on 10/24/2014
+----------------------------
+![](https://github.com/WenjingGong/csc-510-rescue-time/raw/master/10-24.png)
+It is clear that <br>
