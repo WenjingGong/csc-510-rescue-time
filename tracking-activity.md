@@ -10,12 +10,12 @@ I downloaded the 'rescuetime' tool to my computer and completed the configuratio
 Activities on 10/21/2014
 -----------------------------
 ![](https://github.com/WenjingGong/csc-510-rescue-time/raw/master/10-21.png)
-It is clear that <br>
+This was a busy day. I worked all day on my linux platform and was busy writing code in terminal. However, I didn't realize the impact of dual operating systems and the tracking tool 'rescuetime' was only installed on windows platform. Luckily, I was aware of this problem soon and completed the installation on linux. I worked on a virtual local server editing via node.js and the configuration of npm packages dependencies. Besides, some tech websites were visited because there were several useful information for my coding work. <br>
 Activities on 10/22/2014
 ----------------------------
 ![](https://github.com/WenjingGong/csc-510-rescue-time/raw/master/10-22.png)
-It is clear that <br>
+During Wednesday, I completed the rest of coding work in terminal of previous day. <br>
 Activities on 10/24/2014
 ----------------------------
 ![](https://github.com/WenjingGong/csc-510-rescue-time/raw/master/10-24.png)
-It is clear that <br>
+On Friday, I uploaded all the updated work to github. Because my teammates contributed some part of the project, we have to talk about the corrption and deal with them together. These work was mainly completed on my partner's device, which is the reason why my tracking data is not as full as expected. <br>
