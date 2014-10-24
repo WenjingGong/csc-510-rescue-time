@@ -1,5 +1,7 @@
 Tracking Coding Activities
 =============================
-This is a summary reported for nowadays coding activities of the user. 
+This is a summary reported for nowadays coding activities of the user. <br>
 There are 3 graphics inserted in this document to display the detail of the user's activity of each day. The data is collected according to the user's real actions on a computer. 
--------------------------
+Activities on 10/20/2014
+-----------------------------
+
